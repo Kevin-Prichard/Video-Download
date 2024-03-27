@@ -1,10 +1,10 @@
+#!/usr/bin/env python3
+
 """Video-Download.py - Parses bookmarks file and downloads videos
 using yt_dlp.
 
 Author: Josh Buchbinder
 """
-
-# !/usr/bin/env python3
 
 import sys
 import shutil
